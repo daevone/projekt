@@ -42,6 +42,15 @@ https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-o
 
 https://oauth.net/2/
 
+http://programujte.com/clanek/2005082802-python-8-lekce/
+
+http://diveintopython3.py.cz/native-datatypes.html
+
+http://programujte.com/forum/vlakno/8040-vice-rozmerne-pole-seznam-v-pythonu/
+
+https://wtforms.readthedocs.io/en/latest/
+
+
 ## Časový harmonogram
 1. nainstalovat a odzkoušet docker 
 2. stahnuti autoscanneru, porozumění kodu a oprava
