@@ -50,6 +50,8 @@ http://programujte.com/forum/vlakno/8040-vice-rozmerne-pole-seznam-v-pythonu/
 
 https://wtforms.readthedocs.io/en/latest/
 
+https://docs.python.org/3/
+
 
 ## Časový harmonogram
 1. nainstalovat a odzkoušet docker 
